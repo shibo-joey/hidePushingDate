@@ -1,2 +1,2 @@
 # example-repo
-HACK
+hiding
